@@ -1,4 +1,4 @@
-# Awesome Bot Base
+# Zonc
 
 * This project can be generated using the [Constant CLI](https://github.com/rinckodev/constatic)
 
