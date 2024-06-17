@@ -26,12 +26,12 @@ Este bot foi desenvolvido especialmente para o servidor TDR, o que significa que
 
 ## Comandos
 
-- `**!play <música>:**` Toca a música especificada.
-- `**!queue <música>:**` Adiciona uma música à fila.
-- `**!skip:**` Pula a música atual.
-- `**!pause:**` Pausa a reprodução.
-- `**!resume:**` Retoma a reprodução.
-- `**!help:**` Mostra a lista de comandos.
+- `!play <música>:` Toca a música especificada.
+- `!queue <música>:` Adiciona uma música à fila.
+- `!skip:` Pula a música atual.
+- `!pause:` Pausa a reprodução.
+- `!resume:` Retoma a reprodução.
+- `!help:` Mostra a lista de comandos.
 
 ## Para mais informações
 
